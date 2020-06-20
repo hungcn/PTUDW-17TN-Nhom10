@@ -28,7 +28,7 @@
 				<a class="nav-link active" href="#">• Quản lý danh mục</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link active" href="product.html">• Quản lý hàng hóa</a>
+				<a class="nav-link active" href="/Manager/product/product.html">• Quản lý hàng hóa</a>
 			</li>
 			
 			
@@ -39,7 +39,7 @@
 				<p class="nav-link" href="#">Thống kê</p>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link active" href="report.html">• Báo cáo</a>
+				<a class="nav-link active" href="/Manager/report/report.html">• Báo cáo</a>
 			</li>
 			<li class="nav-item">
 				<img class="icon" src="/Manager/img/nav_acc.png"></img>
