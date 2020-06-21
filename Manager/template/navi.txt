@@ -8,7 +8,7 @@
 				<div class="reddot">1</div>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link active" style="float:left;" href="/Manager/bill/pending.html">• Đơn hàng đang xử lý</a>
+				<a class="nav-link active" style="float:left;" href="/Manager/bill/pending.html">• Đang xử lý</a>
 				<div class="reddot">8</div>
 			</li>
 			<li class="nav-item">
