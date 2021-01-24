@@ -1,6 +1,10 @@
+@fontface
+{
+	font-family: Roboto ;
+}
 body, html {
   
-   font-family: Monospace, Arial, Helvetica, sans-serif;
+   
    width:auto;
    height:100vh;
 }
@@ -65,7 +69,7 @@ a{
 }
 
 li{
-	padding-left:10%;
+	
 }
 
 #name{
@@ -112,7 +116,7 @@ li{
 	
 }
 ul{
-	font-family: Monospace;
+	
 	font-size:15px;
 	font-weight:lighter;
 }
